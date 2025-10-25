@@ -7,4 +7,4 @@ This repository contains some of my CAD's and FEA/CFD Analysis using ANSYS. Thes
 2. ANSYS - For structural and aerodynamic Analysis
 
 # Confidentiality Notice  
-Due to publication restrictions and confidentiality agreements, I'm unable to upload the CAD models, FEA, CFD simulation files, and codes related to my research projects and patent application at this time.
+Most of my files, including CAD models, FEA/CFD simulations, and codes, are for my research projects and patent application. Because of this, I am unable to upload them at this time due to publication restrictions and confidentiality agreements.
