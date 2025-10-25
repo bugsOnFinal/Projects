@@ -5,6 +5,6 @@ This repository contains some of my CAD's and FEA/CFD Analysis using ANSYS. Thes
 ## Softwares Used
 1. SolidWorks - For 3D modelling and assembly
 2. ANSYS - For structural and aerodynamic Analysis
-
+3. MATLAB & Simulink - For 6 - DOF model
 # Confidentiality Notice  
 Most of my files, including CAD models, FEA/CFD simulations, and codes, are for my research projects and patent application. Because of this, I am unable to upload them at this time due to publication restrictions and confidentiality agreements.
