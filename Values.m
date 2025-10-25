@@ -1,3 +1,4 @@
+##This code is for testing the Nonlinear_6DOF_Model.m file. 
 u = [0;-0.1;0;0;0.08];
 x0 = [85;0;0;0;0;0;0;0.1;0];
 
@@ -11,3 +12,4 @@ u4min = -25*(pi/180);
 u4max = 10*(pi/180);
 u5min = 0.5*(pi/180);
 u5max = 10*(pi/180);
+
